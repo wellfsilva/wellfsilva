@@ -1,6 +1,6 @@
-### Olá, eu sou o Wellington Ferreira
-#### Sou um designer que se aventura no front-end.
-##
+# Olá, eu sou o Wellington Ferreira 
+<b>Sou um designer que se aventura no front-end.</b>
+
 Tenho um bom conhecimento em: <br>
 <img height="27em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
 <img height="27em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
